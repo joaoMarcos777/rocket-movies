@@ -1,8 +1,50 @@
-# React + Vite
+<h1 align="center" style="font-weight: bold;">Project name</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<p align="center">
+ <a href="#tech">Technologies</a> • 
+ <a href="#started">Getting Started</a> • 
+</p>
 
-Currently, two official plugins are available:
+<p align="center">
+    <b>An application where the user registers a movie, fills in some information (name, description, rating), and creates tags related to it.</b>
+</p>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<p align="center">
+     <a href="PROJECT__URL">📱 Visit this Project</a>
+</p>
+
+<h2 id="layout">🎨 Layout</h2>
+
+<p align="center">
+    <img src="../.github/example.png" alt="Image Example" width="400px">
+    <img src="../.github/example.png" alt="Image Example" width="400px">
+</p>
+
+<h2 id="technologies">💻 Technologies</h2>
+
+- React
+- Styled Components
+- NodeJs
+- SQLite
+- Knex
+
+<h2 id="started">🚀 Getting started</h2>
+
+```sh
+npm install
+```
+
+```sh
+npm run dev
+```
+
+```sh
+npm run migrate
+```
+
+## Author
+
+**João Marcos**
+
+- Github: [@joaoMarcos777](https://github.com/joaoMarcos777)
+- LinkedIn: [@joaomarcos777](https://linkedin.com/in/joaomarcos777)
